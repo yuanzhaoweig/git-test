@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("develop branch");
         System.out.println("develop push");
-
+        System.out.println("develop push asd");
     }
 }
