@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("............");
         System.out.println("master branch");
+        System.out.println("hotfix from master");
     }
 }
