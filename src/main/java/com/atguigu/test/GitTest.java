@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("develop branch");
         System.out.println("develop push");
         System.out.println("develop push asd");
+        System.out.println("........");
+        System.out.println("develop branch");
     }
 }
